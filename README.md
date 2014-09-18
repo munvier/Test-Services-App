@@ -10,3 +10,14 @@ On passe dans l'url de la requête les arg suivants :
 - /api/views -> Permet de GETer les services views configurées
 - /api/views/concerts -> Permet de GETer la services views configuée avec le path /concerts
 
+## Comment l'utiliser ?
+
+Bien sûr, clonez le repo dans le répertoire de votre souhait.
+
+> git clone https://github.com/munvier/Test-Services-App.git && cd Test-Services-App
+
+Installez les dépendances
+
+> bower install && npm install
+
+Lancer l'index.html (en file:// ou hébergée en localhost, peu importe) && enjoy.
