@@ -5,7 +5,8 @@
 ## Comment ça marche ?
 
 Tout simplement, on fait une requête de type GET sur l'endpoint /api du site drupal.
+
 On passe dans l'url de la requête les arg suivants :
-/api*/views* -> Permet de GETer les services views configurées
-/api*/views*/*concerts* -> Permet de GETer la services views configuée avec le path /concerts
+- /api*/views* -> Permet de GETer les services views configurées
+- /api*/views*/*concerts* -> Permet de GETer la services views configuée avec le path /concerts
 
